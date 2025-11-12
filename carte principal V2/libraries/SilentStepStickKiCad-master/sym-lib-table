@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SilentStepStick-TMC2209_v20-eagle-import")(type "Legacy")(uri "${KIPRJMOD}/SilentStepStick-TMC2209_v20-eagle-import.lib")(options "")(descr ""))
+)
